@@ -1,0 +1,35 @@
+
+h1{
+    margin-left: 42%;
+}
+#calc{
+    width:500px;
+    height: 600px;
+    background: rgb(122, 120, 120);
+    margin-left: 30%;
+}
+#new{
+    width:70%;
+    height:50px;
+    margin-top:40px;
+    margin-left:68px;
+    pointer-events: none;
+}
+.btn{
+    width:60px; 
+    height:40px;
+    margin-left:50px;
+    background:rgb(0, 0, 0);
+    color:rgb(235, 235, 235);
+    
+}
+#clear{
+ background-color: rgb(112, 7, 7);
+    color:rgb(240, 240, 240)
+
+}
+#result{
+    margin-left:40%;
+    background-color: rgb(16, 112, 7);
+    color:rgb(240, 240, 240)
+}
